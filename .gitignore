@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# PowerShell artifacts
+*.ps1xml
+*.mof
+*.mof.checksum
